@@ -1,0 +1,14 @@
+Name of the student : RAVI KUMAR 
+Class Roll of the student : 35 
+Stream of the student : IT 
+Your Student ID is : IT2135
+
+Marks obtained in Math is : 45 
+Marks obtained in Python is : 67 
+Marks obtained in Physics is : 67 
+Marks obtained in Chemistry is : 89 
+Marks obtained in Biology is : 99 
+Marks obtained in English is : 100 
+
+You have got 467 in total with 93%
+Good Performance... You have passed the exam with grade C.

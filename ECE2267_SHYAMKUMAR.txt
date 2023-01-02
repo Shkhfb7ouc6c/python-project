@@ -1,0 +1,14 @@
+Name of the student : SHYAM KUMAR 
+Class Roll of the student : 67 
+Stream of the student : ECE 
+Your Student ID is : ECE2267
+
+Marks obtained in Math is : 99 
+Marks obtained in Python is : 100 
+Marks obtained in Physics is : 98 
+Marks obtained in Chemistry is : 97 
+Marks obtained in Biology is : 96 
+Marks obtained in English is : 95 
+
+You have got 585 in total with 117%
+Outstanding Performance... You have passed the exam with grade A.

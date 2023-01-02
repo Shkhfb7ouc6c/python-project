@@ -1,0 +1,14 @@
+Name of the student : KUNAL KUMAR 
+Class Roll of the student : 45 
+Stream of the student : EE 
+Your Student ID is : EE2045
+
+Marks obtained in Math is : 45 
+Marks obtained in Python is : 29 
+Marks obtained in Physics is : 67 
+Marks obtained in Chemistry is : 99 
+Marks obtained in Biology is : null 
+Marks obtained in English is : 59 
+
+You have got 299 in total with 299%
+Your performance is below average... There is massive scope of improvement... You have barely passed the exam with grade E.
